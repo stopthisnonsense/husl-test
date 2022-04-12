@@ -887,6 +887,11 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
+"@grubersjoe/slide-menu@^1.2.3":
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@grubersjoe/slide-menu/-/slide-menu-1.2.3.tgz#bf689fe313b584d97f0c5c062ade7311f32c8bae"
+  integrity sha512-ZBs4ONrnPfOvqYkJ1nSj8vUaY/5Op2qjo3lZNkWNQHUrTJv0sFFdo4wYttv/8L3XS8t9L5hIWiGRtLWTjNs61w==
+
 "@gulp-sourcemaps/identity-map@1.X":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@gulp-sourcemaps/identity-map/-/identity-map-1.0.2.tgz#1e6fe5d8027b1f285dc0d31762f566bccd73d5a9"
@@ -3266,11 +3271,6 @@ form-data@~2.3.2:
     asynckit "^0.4.0"
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
-
-foundation-sites@^6.5.0-rc.3:
-  version "6.7.4"
-  resolved "https://registry.yarnpkg.com/foundation-sites/-/foundation-sites-6.7.4.tgz#495ddb3b7014ae33df3bf7cc1f9fe74b2cfd572e"
-  integrity sha512-2QPaZJ0Od0DyklhQyKC3zPbr8AAUXSkr1scZJrQTgj/KTLresuCgUBfi7ft32NlOWhuqVXisjOgTE8N5EPS3cg==
 
 fragment-cache@^0.2.1:
   version "0.2.1"
